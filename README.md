@@ -1,5 +1,6 @@
 # gitLab
 ## Team
+* Ziggy
 * Alex
 * Bob
 * Madison
